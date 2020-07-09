@@ -1,5 +1,3 @@
-# Dylan
-
 ### Roadmap for this project:
 | Features | Implemented |
 |----------|--------------|
