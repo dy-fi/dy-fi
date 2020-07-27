@@ -8,9 +8,8 @@
 
 ---
 
-<p align='center'>
+
 Roadmap for this project
-</p>
 
 | Features | Implemented |
 |----------|--------------|
