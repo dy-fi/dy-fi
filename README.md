@@ -16,7 +16,7 @@ Roadmap for this project
 | Full Stack Software Engineer | ✅ |
 | Passionate about Building | ✅ |
 | [Awesome LinkedIn](https://www.linkedin.com/in/dylan-finn-a36b9614b/) | ✅ |
-| [Personal site (may be down right now)](https://dylanfinn.dev) | ✅ |
+| [Personal site](https://dylanfinn.dev) | ✅ |
 | Markdown Skills | ✨ Obviously ✨ |
 | Functional before coffee | ❌ | 
 
